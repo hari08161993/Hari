@@ -1,0 +1,69 @@
+.div{
+    height:105vh;
+    width:36vw;
+    background-color:lightsteelblue;
+    margin:0px auto;
+    background-size: cover;
+}
+.card{
+    background-color: mediumvioletred;
+    padding:10px;
+    color:white;
+    font-size:large;
+    height:35vh;
+    width:36vw;
+}
+.p{
+    color:white;
+    font-size: small;
+}
+.h1{
+    font-size:large;
+}
+.card1{
+    background-color: white;
+    height:20vh;
+    width:35vw;
+    border-radius: 10px;
+    margin:10px;
+}
+.head{
+    font-size: large;
+}
+.h1v{
+    font-size: large;
+}
+.bg-card{
+    height:300px;
+    width:300px;
+    margin:10px;
+    border-radius: 10px;
+}
+.h3{
+    font-size: small;
+}
+.card3{
+    height:300px;
+    width:300px;
+    border-radius: 10px;
+}
+.h3c{
+    font-size: small;
+}
+.card4{
+    height:300px;
+    width:300px;
+    border-radius: 10px;
+}
+.h3d{
+    font-size: small;
+}
+.btn{
+    border-radius: 10px;
+    border-color: blue;
+    background-color: rgb(13, 13, 236);
+    color: white;
+    }
+    .btn1{
+        margin-left: -60%;
+    }

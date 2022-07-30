@@ -1,0 +1,48 @@
+.img{
+    background-image: url("arvrbg.png");
+    height: 129vh;
+    width: 40vw;
+    background-size: cover;
+    margin-left: 30%;
+    background-repeat: no-repeat;
+}
+.box{
+    background-color: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+    
+
+}
+.btn{
+    border-radius: 7px;
+    height: 40px;
+    width: 130px;
+    padding: 2px; 
+    font-size:small;
+    margin-left: 80px;
+    border-width: 1px;
+}
+.btn1{
+    background-color: darkmagenta;
+    border-radius: 7px;
+    height: 40px;
+    width: 130px;
+    padding: 2px; 
+    font-size:small;
+    margin-left: 20px;
+    border-width: 1px;
+    color: white;
+
+}
+.h2{
+    color: darkmagenta;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 7%;
+
+}
+.text{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 7%;
+
+}

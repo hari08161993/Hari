@@ -1,0 +1,42 @@
+.img{
+    background-image: url("hotelbg.png");
+    height: 129vh;
+    width: 35vw;
+    background-size: cover;
+    margin-left: 30%;
+    background-repeat: no-repeat;
+}
+.box{
+    background-color: rgba(0, 0, 0, 0.801);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    height: 25%;
+    width: 85%;
+    margin-top: 100%;
+    margin-left: 8%;
+    color: white;
+}
+.h1{
+    margin-top: 10%;
+    padding-left:8%;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.p1{
+    padding-left: 8%;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn{
+    margin-left: 3%;
+    margin-top: 6%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+.btn1{
+    border-radius: 7px;
+    border-color: white;
+}
